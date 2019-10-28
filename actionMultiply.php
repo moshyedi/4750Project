@@ -1,2 +1,0 @@
-Hello <?php echo htmlspecialchars($_POST['name']); ?>.
-You typed the values <?php echo (int)$_POST['valueOne']; ?> and  <?php echo (int)$_POST['valueTwo']; ?>. Multiplied together, the value is <?php echo ((int)$_POST['valueOne']*(int)$_POST['valueTwo']); ?>.
