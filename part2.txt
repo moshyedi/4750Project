@@ -1,9 +1,0 @@
-Part 2 Links:
-
-http://cs4750.cs.virginia.edu/~acm4xb/PersonsForm.html
-
-http://cs4750.cs.virginia.edu/~acm4xb/PersonsInsert.php
-
-http://cs4750.cs.virginia.edu/~acm4xb/PersonsSelect.php
-
-http://cs4750.cs.virginia.edu/~acm4xb/ajax/ajaxSailors/
